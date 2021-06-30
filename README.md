@@ -1,4 +1,5 @@
-# Personal Portfolio
+# Personal Portfolio with react and next
+from Youtube channel : JavaScript Mastery
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
